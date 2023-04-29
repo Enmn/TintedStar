@@ -2,7 +2,7 @@
 function isClubeEditUrl(url) {
     const regexPattern = /^https:\/\/socialclub\.rockstargames\.com\/crew\/.*\/manage\/edit$/;
     return regexPattern.test(url);
-  }
+}
 
 function updateColor(selection, picker) {
   var selectedValue = selection.value;
