@@ -1,0 +1,18 @@
+{
+    "name": "Tinted Star",
+    "description": "Replaces the clube color",
+    "version": "0.1.3",
+    "manifest_version": 3,
+    "permissions": ["tabs", "activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://socialclub.rockstargames.com/*"],
+        "js": [
+            "./content.js"
+        ]
+      }
+    ],
+    "background": {
+      "service_worker": "./background.js"
+    }
+}
