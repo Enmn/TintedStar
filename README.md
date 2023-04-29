@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/8ML2X9l.png" alt="TintedStar Logo" width="250"/>
-</div>
-
 # TintedStar
 TintedStar is a simple and elegant solution for customizing the color scheme of your Rockstar Games Club. With TintedStar, you can easily create a unique look for your club that reflects your personal style.
 
