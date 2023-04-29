@@ -44,6 +44,3 @@ We welcome contributions from anyone who would like to help improve TintedStar. 
 
 ## License
 TintedStar is released under the [MIT License](https://opensource.org/licenses/MIT). See `LICENSE` for more information.
-
-## Contact
-If you have any questions or feedback, please don't hesitate to reach out to us at example@tintedstar.com. We'd love to hear from you!
