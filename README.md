@@ -18,9 +18,8 @@ Once you have installed TintedStar, simply follow these steps to customize your 
 1. Open Rockstar Games Social Club.
 2. Go to the "Crews" tab.
 3. Click "My Crews" and select the crew you want to customize.
-4. Click on the TintedStar icon in the toolbar.
-5. Choose your desired color scheme from the available options.
-6. Click "Save" at the bottom of the page to apply your changes.
+4. Choose your desired color scheme from the available options.
+5. Click "Save" at the bottom of the page to apply your changes.
 
 If the color does not work for you, don't worry. You will notice on the right side of the color picker that there is a choice of certain codes. Choose the first code, and if it does not work, choose the second or third in order for the color to work and be saved. Also, wait a few seconds for the color to appear.
 
